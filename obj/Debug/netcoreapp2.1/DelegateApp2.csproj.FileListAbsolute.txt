@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\DelegateApp2\bin\Debug\netcoreapp2.1\DelegateApp2.deps.json
+C:\Users\caljf\Documents\DelegateApp2\bin\Debug\netcoreapp2.1\DelegateApp2.runtimeconfig.json
+C:\Users\caljf\Documents\DelegateApp2\bin\Debug\netcoreapp2.1\DelegateApp2.runtimeconfig.dev.json
+C:\Users\caljf\Documents\DelegateApp2\bin\Debug\netcoreapp2.1\DelegateApp2.dll
+C:\Users\caljf\Documents\DelegateApp2\bin\Debug\netcoreapp2.1\DelegateApp2.pdb
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.AssemblyInfo.cs
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.dll
+C:\Users\caljf\Documents\DelegateApp2\obj\Debug\netcoreapp2.1\DelegateApp2.pdb
